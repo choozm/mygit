@@ -1,1 +1,1 @@
-"C:\Program Files\Java\jdk1.6.0_29\bin\java" -cp bin sg.edu.nus.iss.jcalc.JCalc 
+"C:\Program Files\Java\jdk1.6.0_45\bin\java" -cp bin sg.edu.nus.iss.jcalc.JCalc 
